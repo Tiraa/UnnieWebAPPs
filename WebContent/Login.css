@@ -1,0 +1,6 @@
+@CHARSET "ISO-8859-1";
+
+body {
+  background: #fffff;
+  background: linear-gradient(to right, #e5e0de, #eab9d9);
+}

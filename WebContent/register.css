@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  height: 40%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.a-btn {
+	background-color:#ffc107;
+	color: black;
+	border-radius: 10px;
+	width:400px;
+}
+
+.a-btn:hover {
+  background-color: #686565;
+  color: white;
+}
